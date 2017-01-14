@@ -3,10 +3,10 @@
 title:  Alan's Kunstkammer# Title of your site
 email: alan_wzhang@yahoo.com # Your contant email
 
-description: > # this means to ignore newlines until "baseurl:"
-	Hi, I'm Alan, a UC Berkeley undergrad senior. 
+description: 
+	"Hi, I'm Alan, a UC Berkeley undergrad senior."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://alanwz.com" # the base hostname & protocol for your site
+url: "http://alanwz.github.io" # the base hostname & protocol for your site
 
 # Social links.
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
