@@ -3,8 +3,7 @@
 title:  Alan's Kunstkammer# Title of your site
 email: alan_wzhang@yahoo.com # Your contant email
 
-description: 
-	"Hi, I'm Alan, a UC Berkeley undergrad senior."
+description: "Hi, I'm Alan, a UC Berkeley undergrad senior."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://alanwz.github.io" # the base hostname & protocol for your site
 
